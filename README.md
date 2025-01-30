@@ -19,7 +19,7 @@
 - **Python**: Linguagem de programação principal.
 - **Flask**: Framework web para construir a aplicação.
 - **HTML** e **CSS**: Para a criação do front-end.
-- **Bootstrap**: Para o design responsivo (se utilizado).
+- **Bootstrap**: Para o design responsivo.
 - **Session** e **Flash**: Para gerenciamento de usuários e mensagens.
 
 ---
