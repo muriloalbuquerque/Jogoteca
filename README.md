@@ -22,7 +22,5 @@
 - **Bootstrap**: Para o design responsivo.
 - **Session** e **Flash**: Para gerenciamento de usuários e mensagens.
 
----
 
-## 📚 Estrutura do projeto
 
